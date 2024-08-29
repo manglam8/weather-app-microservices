@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+sqlalchemy
+psycopg2-binary
+pymongo
+redis
+celery
+flower
+pydantic_settings
